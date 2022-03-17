@@ -32,7 +32,7 @@ knitr::opts_chunk$set(echo = TRUE)
 *   Inaugural Artist In Residence: Wildlife Conservation Society **2016**
 *   Web Producer for Slate Magazin **2013-2015**
 *   Ambassador for Nanae Town Government, Hokkaido, Japan **2010-2012**
-
+ 
 ## Skills
 *   Data analysis in R
 *   Science writing

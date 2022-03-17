@@ -9,6 +9,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **Created by [Ben M]("https://github.com/benmirin")**
 
-*In collaboration with [Marissa Garcia]("")*
+*In collaboration with [Marissa Garcia]("https://github.com/mlynngarcia")*
 
 ![**Here's Ben**](https://images.squarespace-cdn.com/content/v1/56495495e4b0102d9d9656a2/1466376771404-E8JHW146AN3HRN1VG03I/Berlin+Toucan?format=1000w)
